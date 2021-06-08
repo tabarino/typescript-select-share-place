@@ -1,0 +1,28 @@
+{
+  "name": "typescript-select-share-place",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack serve",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tabarino/typescript-select-share-place.git"
+  },
+  "author": "Ivan Tabarino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tabarino/typescript-select-share-place/issues"
+  },
+  "homepage": "https://github.com/tabarino/typescript-select-share-place#readme",
+  "devDependencies": {
+    "ts-loader": "^9.2.3",
+    "typescript": "^4.3.2",
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.2",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
